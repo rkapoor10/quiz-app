@@ -1,0 +1,34 @@
+/* questions-box */
+
+.question-box {
+    border: 2px solid var(--darkyellow-color);
+    background-color: var(--background-color);
+    width: 80%;
+    height: auto;
+    padding: 1rem;
+  }
+  
+  .quiz-status {
+    width: 60%;
+  }
+  
+  .options {
+    gap: 15px;
+  }
+  
+  .option {
+    border: 2px solid var(--darkyellow-color);
+    border-radius: 3rem;
+    background-color: var(--darkbackground-color);
+    padding: 1rem 5rem;
+    font-size: 1.5rem;
+  }
+  
+  .correct-ans {
+    background-color: var(--basegreen-color);
+  }
+  
+  .wrong-ans {
+    background-color: var(--basered-color);
+  }
+  
