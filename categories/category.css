@@ -1,0 +1,19 @@
+/* || CATEGORY CARDS */
+.category-cards {
+  color: var(--darkyellow-color);
+}
+/*  CARD STYLES */
+.card-container {
+  background-color: var(--background-color);
+  border-color: var(--darkgray-color);
+  box-shadow: 0 1px 5px 0px var(--black-color);
+}
+
+.card-container:hover {
+  border-color: var(--darkyellow-color);
+  box-shadow: 0 1px 5px 2px var(--black-color);
+}
+
+.image-container {
+  object-fit: contain;
+}

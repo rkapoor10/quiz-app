@@ -1,8 +1,14 @@
 /* || IMAGE STYLES  */
 .hero-img {
   margin-top: 5rem;
+  max-height: 15rem;
   max-width: 15rem;
-  max-width: 15rem;
+}
+
+.hero-img-small{
+  margin-top: 3rem;
+  max-height: 5rem;
+  max-width: 5rem;
 }
 
 /* || INTRODUCTION MESSAGE CONTAINER  */
@@ -30,14 +36,14 @@
   text-transform: uppercase;
   transition: 0.5s;
   background-size: 200% auto;
-  color: white;
+  color: var(--white-color);
   box-shadow: 0 0 20px var(--background-color);
   border-radius: 5px;
   border: 2px solid transparent;
 }
 .btn-grad:hover {
   background-position: right center;
-  color: #fff;
+  color: var(--white-color);
   text-decoration: none;
 }
 .position-main-btn {
