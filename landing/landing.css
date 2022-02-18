@@ -1,0 +1,58 @@
+/* || IMAGE STYLES  */
+.hero-img {
+  margin-top: 5rem;
+  max-width: 15rem;
+  max-width: 15rem;
+}
+
+/* || INTRODUCTION MESSAGE CONTAINER  */
+.kwizz-intro-container {
+  border-color: var(--darkyellow-color);
+  width: 60%;
+  padding: 3rem 4rem;
+  gap: 15px;
+}
+
+/* || PRIMARY BUTTON  */
+.btn-grad {
+  background-image: linear-gradient(
+    to right,
+    #ff8008 0%,
+    #ffc837 51%,
+    #ff8008 100%
+  );
+}
+.btn-grad {
+  margin: 1rem;
+  padding: 1rem 3rem;
+  font-size: 1.2rem;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 0 0 20px var(--background-color);
+  border-radius: 5px;
+  border: 2px solid transparent;
+}
+.btn-grad:hover {
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
+}
+.position-main-btn {
+  top: 14rem;
+}
+
+
+/* || FOOTER STYLES */
+
+.site-footer{
+    margin-top: 15vh;
+    background-color: var(--background-color); 
+    width: 100%;
+}
+
+.footer-icons:hover{
+    color: var(--darkyellow-color);
+}
