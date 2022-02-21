@@ -3,7 +3,7 @@
 # Kwizzit
 
 *Kwizzit a SwiftUI product.*  
-Kwizzit is a Anime based quiz app. 
+Kwizzit is an Anime based quiz app. 
 
 
 ## Live Link
