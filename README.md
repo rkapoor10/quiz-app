@@ -1,3 +1,4 @@
+![Kwizz it!](https://user-images.githubusercontent.com/61417822/154951244-1e1c40b2-f977-4ae1-8d95-575c609b5a89.png)
 
 # Kwizzit
 
