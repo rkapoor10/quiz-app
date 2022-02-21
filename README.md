@@ -1,4 +1,5 @@
-![Kwizz it! (1)](https://user-images.githubusercontent.com/61417822/154952420-a49581d6-aa04-4fa0-98f7-e1b84f39e1c7.png)
+![Kwizz it! (2)](https://user-images.githubusercontent.com/61417822/154953492-874c86ec-aa7a-4a8b-82bf-864f991c4e98.png)
+
 
 # Kwizzit
 
