@@ -1,9 +1,3 @@
-<a class="flex-column-center margin-bottom-4" href="/index.html">
-            <img class="hero-img-small" src="/assets/2904297-ff9800.svg" alt="hero-img">
-            <h1>kwizz<span class="darkyellow">it!</span></h1>
-        </a>
-        
-        
 # Kwizzit
 
 *Kwizzit a SwiftUI product.*  
