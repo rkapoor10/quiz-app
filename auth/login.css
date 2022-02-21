@@ -1,0 +1,17 @@
+.bg-background-color{
+    background-color: var(--background-color);
+}
+
+.active{
+    color: var(--darkyellow-color);
+    border-color: var(--darkyellow-color);
+}
+
+.btn-secondary:hover{
+    border-color: var(--darkyellow-color);
+}
+
+.input-field:focus{
+    border-color: var(--darkyellow-color);
+}
+

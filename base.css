@@ -21,6 +21,7 @@ body {
     position: fixed;
 }
 
+
 .flex-row-center {
   display: flex;
   align-items: center;
@@ -64,4 +65,6 @@ body {
 .darkyellow {
   color: var(--darkyellow-color);
 }
-
+.bg-darkyellow {
+  background-color: var(--darkyellow-color);
+}
