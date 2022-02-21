@@ -8,7 +8,10 @@ Kwizzit is an Anime based quiz app.
 
 
 ## Live Link
- *[Kwizzit](https://kwizzit.netlify.app/)*
+ *[Kwizzit](https://kwizzit.netlify.app/)*   
+ 
+## Deployment Status
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/7b36e178-fb6e-4c9d-abc7-4b39247a3c65/deploy-status)](https://kwizzit.netlify.app/)
 
 
 ## Features
