@@ -1,5 +1,9 @@
-![Kwizz it!](https://user-images.githubusercontent.com/61417822/154951244-1e1c40b2-f977-4ae1-8d95-575c609b5a89.png)
-
+<a class="flex-column-center margin-bottom-4" href="/index.html">
+            <img class="hero-img-small" src="/assets/2904297-ff9800.svg" alt="hero-img">
+            <h1>kwizz<span class="darkyellow">it!</span></h1>
+        </a>
+        
+        
 # Kwizzit
 
 *Kwizzit a SwiftUI product.*  
